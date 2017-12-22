@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmbedtls.a  CMakeFiles/mbedtls.dir/network_mbedtls_wrapper.c.o
+/usr/bin/ranlib libmbedtls.a

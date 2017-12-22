@@ -1,0 +1,11 @@
+/home/viet/openni_opencv/platform/CMakeFiles/edit_cache.dir
+/home/viet/openni_opencv/platform/CMakeFiles/rebuild_cache.dir
+/home/viet/openni_opencv/platform/pthread/CMakeFiles/edit_cache.dir
+/home/viet/openni_opencv/platform/pthread/CMakeFiles/rebuild_cache.dir
+/home/viet/openni_opencv/platform/pthread/CMakeFiles/pthread.dir
+/home/viet/openni_opencv/platform/mbedtls/CMakeFiles/edit_cache.dir
+/home/viet/openni_opencv/platform/mbedtls/CMakeFiles/rebuild_cache.dir
+/home/viet/openni_opencv/platform/mbedtls/CMakeFiles/mbedtls.dir
+/home/viet/openni_opencv/platform/common/CMakeFiles/edit_cache.dir
+/home/viet/openni_opencv/platform/common/CMakeFiles/rebuild_cache.dir
+/home/viet/openni_opencv/platform/common/CMakeFiles/common.dir

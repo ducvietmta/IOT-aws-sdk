@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/viet/demo/platform/common/timer.c
+stddef.h
+-
+sys/types.h
+-
+stdint.h
+-
+stdbool.h
+-
+timer_platform.h
+/home/viet/demo/platform/common/timer_platform.h
+
+/home/viet/demo/platform/common/timer_interface.h
+timer_platform.h
+/home/viet/demo/platform/common/timer_platform.h
+stdint.h
+-
+stdbool.h
+-
+
+/home/viet/demo/platform/common/timer_platform.h
+sys/time.h
+-
+sys/select.h
+-
+timer_interface.h
+/home/viet/demo/platform/common/timer_interface.h
+

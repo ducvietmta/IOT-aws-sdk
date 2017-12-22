@@ -1,0 +1,3 @@
+/home/viet/demo/include/CMakeFiles/edit_cache.dir
+/home/viet/demo/include/CMakeFiles/rebuild_cache.dir
+/home/viet/demo/include/CMakeFiles/include.dir

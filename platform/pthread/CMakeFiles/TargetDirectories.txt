@@ -1,0 +1,3 @@
+/home/viet/openni_opencv/platform/pthread/CMakeFiles/edit_cache.dir
+/home/viet/openni_opencv/platform/pthread/CMakeFiles/rebuild_cache.dir
+/home/viet/openni_opencv/platform/pthread/CMakeFiles/pthread.dir

@@ -1,0 +1,3 @@
+/home/viet/demo/mbedtls/CMakeFiles/edit_cache.dir
+/home/viet/demo/mbedtls/CMakeFiles/rebuild_cache.dir
+/home/viet/demo/mbedtls/CMakeFiles/mbedtls.dir
